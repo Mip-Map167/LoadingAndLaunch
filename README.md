@@ -4,4 +4,4 @@
 
 Выполнил: Бирюков К.Д.
 
-Путь: srs/RabbitAndTurtle.java
+Путь: srs/Main.java
